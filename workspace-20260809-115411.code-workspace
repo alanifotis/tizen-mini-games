@@ -4,5 +4,7 @@
       "path": "MemoryGame"
     }
   ],
-  "settings": {}
+  "settings": {
+    "tizen.v2.working.project": null
+  }
 }
